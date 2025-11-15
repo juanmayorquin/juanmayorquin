@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Juan José Mayorquín**
+# 👋 Hey, I'm **Juan Mayorquín**
 
 ### **Software Engineer • Frontend Developer • Full-Stack Learner**
 
