@@ -1,108 +1,60 @@
-# 👋 Hey, soy **Juan José Mayorquín**
+# 👋 Hey, I'm **Juan José Mayorquín**
 
-### **Software Engineer • Frontend Developer • Data Enthusiast**
+### **Software Engineer • Frontend Developer • Full-Stack Learner**
 
-Apasionado por el desarrollo web y el análisis de datos. Me enfoco en
-crear soluciones digitales que optimicen procesos, mejoren la
-experiencia del usuario y permitan a los equipos tomar decisiones
-basadas en datos. Actualmente profundizo en tecnologías modernas para
-fortalecer mi perfil como desarrollador full stack y como profesional
-integral capaz de resolver problemas reales.
+I build clean, scalable, and user-focused web applications using modern technologies.  
+I’m driven by curiosity, continuous learning, and the challenge of turning ideas into simple, elegant digital solutions.
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tech Stack
 
 ### **Frontend**
+- **JavaScript**, **TypeScript**
+- **React**, **Angular**, **React Router**, **Redux**
+- **CSS**, **Tailwind**, **Figma**
+- SPA architecture, component-driven development
 
--   React, Angular\
--   JavaScript, TypeScript\
--   CSS, Tailwind, Figma\
--   SPA, React Router, Redux
+### **Backend**
+- **Node.js**, **NestJS**
+- REST APIs, MVC patterns, modular design
 
-### **Backend y Bases de Datos**
-
--   Node.js, NestJS\
--   PostgreSQL, MongoDB
+### **Databases**
+- **PostgreSQL**
+- **MongoDB**
 
 ### **Data & Analytics**
+- **Python**
+- **Power BI**
+- Data cleaning, visualization, basic analytics
+- Google Professional Data Analytics foundations
 
--   Python\
--   Power BI\
--   Google Professional Data Analytics\
--   Spreadsheets
+### **Tools & Practices**
+- Git & GitHub workflows
+- Agile / Scrum
+- Software architecture fundamentals  
+- Code readability & clean code principles
 
-### **Metodologías y prácticas**
+---
 
--   Agile / Scrum\
--   Buenas prácticas de arquitectura\
--   Trabajo colaborativo y herramientas de equipo
+## 🧩 What I Focus On
+- Writing maintainable, readable code  
+- Building interfaces that feel fluid and intuitive  
+- Strengthening backend engineering skills  
+- Applying data to understand patterns and strengthen decisions  
+- Constantly learning and exploring modern technologies  
 
-------------------------------------------------------------------------
+---
 
-## 💼 Experiencia Relevante
+## 🌱 Currently Learning
+- Advanced React patterns  
+- NestJS deep dive  
+- Scalable backend structure & clean architecture  
+- Cloud fundamentals (AWS basics)
 
-### **Software Developer --- KCDreams** *(01/2025 - 02/2025)*
+---
 
--   Implementé soluciones de software para optimizar procesos internos.\
--   Reduje tiempos de procesamiento y aumenté el volumen de pedidos
-    diarios mediante herramientas a medida.
+## 📫 Connect with Me
 
-### **Collections Agent / SME --- Alorica Colombia** *(04/2025 - Actualidad)*
-
--   Analicé indicadores de desempeño usando herramientas visuales para
-    decisiones basadas en datos.\
--   Creé reportes que identificaron patrones clave para mejorar la
-    eficiencia del equipo.\
--   Reconocido por desempeño sobresaliente → ascenso a rol de soporte y
-    formación de nuevos integrantes.\
--   Fortalecí habilidades en liderazgo, comunicación y pensamiento
-    analítico.
-
-### **Sales Advisor --- KCDreams** *(08/2024 - Actualidad)*
-
--   Atención al cliente, asesoría y gestión PQRS.\
--   Desarrollo de comunicación efectiva y habilidades de trabajo con
-    clientes.
-
-------------------------------------------------------------------------
-
-## 🎓 Educación
-
-**Ingeniería Multimedia --- Universidad Autónoma de Occidente
-(2021--2025)**\
-- Promedio: **4.4 / 5.0**\
-- Beca de excelencia durante toda la carrera.\
-- Participación en proyectos académicos e investigación.
-
-------------------------------------------------------------------------
-
-## 📚 Formación adicional
-
--   **Google -- Professional Data Analytics Certificate**\
--   **University of Helsinki -- Full Stack Open**
-
-------------------------------------------------------------------------
-
-## 🌍 Idiomas
-
--   **Español** --- Nativo\
--   **Inglés** --- Avanzado / Profesional
-
-------------------------------------------------------------------------
-
-## 📈 Objetivo profesional
-
-Seguir creciendo como desarrollador web y analista, creando proyectos
-sólidos, modernos y eficientes. Me motiva transformar ideas en productos
-funcionales y aprender constantemente de los equipos con los que
-trabajo.
-
-------------------------------------------------------------------------
-
-## 📫 Conecta conmigo
-
-🔗 **LinkedIn:**
-[linkedin.com/in/juan-mayorquin](https://linkedin.com/in/juan-mayorquin)\
-📧 **Email:** juanjosemayorquincabrera@gmail.com\
-📍 Cali, Colombia
+🔗 **LinkedIn:** [linkedin.com/in/juan-mayorquin](https://linkedin.com/in/juan-mayorquin)  
+📧 **Email:** juanjosemayorquincabrera@gmail.com  
