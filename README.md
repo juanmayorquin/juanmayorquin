@@ -1,28 +1,108 @@
-# ¡Hola, soy Juan Mayorquín! 👋
+# 👋 Hey, soy **Juan José Mayorquín**
 
-¡Bienvenido/a a mi rincón en GitHub! Soy estudiante de ingeniería multimedia de tercer año y un entusiasta desarrollador novato con una fuerte pasión por la programación web y la creación de experiencias digitales atractivas! 🌐
+### **Software Engineer • Frontend Developer • Data Enthusiast**
 
-## Sobre mí
-Mis estudios me ha llevado a descubrir una fascinación por la intersección entre el diseño visual y la tecnología. Mi objetivo es construir proyectos web que no solo sean útiles, sino también visualmente atractivos y funcionales.
-También intento desarrollar videojuegos de vez en cuando. Si gustas puedes revisar mis repositorios. 😄
-En mis tiempos libres hago streams en Twitch jugando, charlando, o simplemente pasando un buen rato. 👾
+Apasionado por el desarrollo web y el análisis de datos. Me enfoco en
+crear soluciones digitales que optimicen procesos, mejoren la
+experiencia del usuario y permitan a los equipos tomar decisiones
+basadas en datos. Actualmente profundizo en tecnologías modernas para
+fortalecer mi perfil como desarrollador full stack y como profesional
+integral capaz de resolver problemas reales.
 
-## Intereses
+------------------------------------------------------------------------
 
--   💻 Desarrollo web y diseño de interfaces de usuario.
--   🎨 Creación y edición de gráficos y multimedia.
--   📸 Fotografía y edición de imágenes.
--   🚀 Tecnología emergente y tendencias digitales.
+## 🚀 Tecnologías y herramientas
 
-## Redes
+### **Frontend**
 
-* **[Instagram](https://www.instagram.com/_.mayorquin._)**
-* **[Twitch](https://twitch.tv/juan_mayorquin)**
-* **[GitHub](https://github.com/juanmayorquin)**
-* **Discord:** @Sonverx
+-   React, Angular\
+-   JavaScript, TypeScript\
+-   CSS, Tailwind, Figma\
+-   SPA, React Router, Redux
 
+### **Backend y Bases de Datos**
 
-## Colaboración
-Si tienes proyectos interesantes o ideas creativas, no dudes en contactarme. ¡Siempre estoy listo para colaborar y aprender juntos!
-##
-¡Gracias por pasar por aquí en mi rincón de GitHub! Siéntete libre de explorar mis proyectos y únete mientras navego por el vasto mundo del desarrollo web y la tecnología. Si tienes preguntas, no dudes en ponerte en contacto. ¡Espero que encuentres algo interesante, y aprendas (o me enseñes) algo! 🚀
+-   Node.js, NestJS\
+-   PostgreSQL, MongoDB
+
+### **Data & Analytics**
+
+-   Python\
+-   Power BI\
+-   Google Professional Data Analytics\
+-   Spreadsheets
+
+### **Metodologías y prácticas**
+
+-   Agile / Scrum\
+-   Buenas prácticas de arquitectura\
+-   Trabajo colaborativo y herramientas de equipo
+
+------------------------------------------------------------------------
+
+## 💼 Experiencia Relevante
+
+### **Software Developer --- KCDreams** *(01/2025 - 02/2025)*
+
+-   Implementé soluciones de software para optimizar procesos internos.\
+-   Reduje tiempos de procesamiento y aumenté el volumen de pedidos
+    diarios mediante herramientas a medida.
+
+### **Collections Agent / SME --- Alorica Colombia** *(04/2025 - Actualidad)*
+
+-   Analicé indicadores de desempeño usando herramientas visuales para
+    decisiones basadas en datos.\
+-   Creé reportes que identificaron patrones clave para mejorar la
+    eficiencia del equipo.\
+-   Reconocido por desempeño sobresaliente → ascenso a rol de soporte y
+    formación de nuevos integrantes.\
+-   Fortalecí habilidades en liderazgo, comunicación y pensamiento
+    analítico.
+
+### **Sales Advisor --- KCDreams** *(08/2024 - Actualidad)*
+
+-   Atención al cliente, asesoría y gestión PQRS.\
+-   Desarrollo de comunicación efectiva y habilidades de trabajo con
+    clientes.
+
+------------------------------------------------------------------------
+
+## 🎓 Educación
+
+**Ingeniería Multimedia --- Universidad Autónoma de Occidente
+(2021--2025)**\
+- Promedio: **4.4 / 5.0**\
+- Beca de excelencia durante toda la carrera.\
+- Participación en proyectos académicos e investigación.
+
+------------------------------------------------------------------------
+
+## 📚 Formación adicional
+
+-   **Google -- Professional Data Analytics Certificate**\
+-   **University of Helsinki -- Full Stack Open**
+
+------------------------------------------------------------------------
+
+## 🌍 Idiomas
+
+-   **Español** --- Nativo\
+-   **Inglés** --- Avanzado / Profesional
+
+------------------------------------------------------------------------
+
+## 📈 Objetivo profesional
+
+Seguir creciendo como desarrollador web y analista, creando proyectos
+sólidos, modernos y eficientes. Me motiva transformar ideas en productos
+funcionales y aprender constantemente de los equipos con los que
+trabajo.
+
+------------------------------------------------------------------------
+
+## 📫 Conecta conmigo
+
+🔗 **LinkedIn:**
+[linkedin.com/in/juan-mayorquin](https://linkedin.com/in/juan-mayorquin)\
+📧 **Email:** juanjosemayorquincabrera@gmail.com\
+📍 Cali, Colombia
